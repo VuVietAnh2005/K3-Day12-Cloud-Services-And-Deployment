@@ -8,11 +8,11 @@
 
 ## Thông Tin Học Viên
 
-| Mục | Nội dung |
-|-----|----------|
-| Họ và tên | Vũ Việt Anh |
-| Mã học viên | 2A202601107 |
-| Repo | DAY12-2A202601107-VuVietAnh |
+| Mục         | Nội dung                    |
+| -------------| -----------------------------|
+| Họ và tên   | Vũ Việt Anh                 |
+| Mã học viên | 2A202601107                 |
+| Repo        | DAY12-2A202601107-VuVietAnh |
 
 ## Service
 
